@@ -1,0 +1,10 @@
+Learning how to use git:
+
+git init = initialize git session in current directory
+
+git add = stage changes
+
+git commit -m "anymessage" = commit changes with the message in quotations being for us, humans
+
+git push = push changes to git repo
+
